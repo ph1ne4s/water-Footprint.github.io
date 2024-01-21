@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/water-footprint/static/css/main.0fa0815b.css",
+    "main.js": "/water-footprint/static/js/main.176ec636.js",
+    "index.html": "/water-footprint/index.html",
+    "main.0fa0815b.css.map": "/water-footprint/static/css/main.0fa0815b.css.map",
+    "main.176ec636.js.map": "/water-footprint/static/js/main.176ec636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa0815b.css",
+    "static/js/main.176ec636.js"
+  ]
+}
